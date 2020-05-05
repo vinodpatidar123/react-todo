@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshot
-![Todo Screenshot](public/image.png)
+![Todo Screenshot](blob:https://vercel.com/0c2d71fb-5c03-412b-aef3-f30d0aae84de)
 
 ## Available Scripts
 
